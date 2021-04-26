@@ -20,3 +20,9 @@ Player is awarded money when defeating enemies and in turn, can be used in towns
 12. Place battle encounters and town functions where it makes sense
 13. Tweak returns in functions to make game function properly
 14. Test throughly to make sure everything is running properly
+
+The Project is close, if not, completed.
+-Added Merchants so players can buy health and lives
+-Added Score System 
+-added Endings based on score (Bad, Mediocre, Good Endings)
+-Fixed Combat. Making sure health carries over to the main after function
