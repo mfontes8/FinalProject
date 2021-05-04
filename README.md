@@ -27,3 +27,13 @@ The Project is close, if not, completed.
   -Added Score System 
   -added Endings based on score (Bad, Mediocre, Good Endings)
   -Fixed Combat. Making sure health carries over to the main after function
+  
+  Update!
+  Shops were updated and fixed to work properly in the main function. Shops also dont allow players to add health without spending money.
+  
+  If their was more time or if I had a better idea how it would work, the one thing i would change is the coin system. Right now, the coins are rewarded even if the player does not participate in the battle. Which was not my intentions. What I would have liked is that a player was rewarded coin only if they fought and were successful in a battle. 
+  
+Instructions to start the game.
+Players must download text files that are included with the document.
+OS, Random, and Time librabrys are used
+To start the game, Player must be in a terminal and be on the current folder the game is located in. Simply type the file name with .py at the end. The game should execute.
